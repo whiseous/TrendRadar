@@ -13,19 +13,13 @@ openai
 sora
 claude
 Anthropic
-
-ai
 !gai
-人工智能
-机器人
 
 中国
 美国
 日本
 韩国
-
 核
-
 疫情
 舆情
 
