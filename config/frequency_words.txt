@@ -1,15 +1,9 @@
 !车
 !餐
 
-京东
-字节
-马斯克
-
-微软
 Microsoft
 NVIDIA
 AMD
-谷歌
 google
 gemini
 deepmind
@@ -23,22 +17,12 @@ Anthropic
 ai
 !gai
 人工智能
-
 机器人
-
-芯片
-光刻机
-科技
-航空
-生产力
-
 
 中国
 美国
 日本
 韩国
-俄罗斯
-欧盟
 
 核
 
